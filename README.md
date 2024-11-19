@@ -7,7 +7,7 @@ Is your stomach yearning for exotic adventures? Let me whisk you away with the v
 So, abandon your ordinary and embrace the extraordinary. Ask me anything, be it a simple side dish or a five-course fantasia. I, Chef Jolly, am here to orchestrate a symphony of flavors that will leave you humming with satisfaction.
 
 Ready to embark on a culinary journey? The kitchen awaits!
-https://shorturl.at/bkqDJ
+https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/11/19/19/20241119195913-ARSNN1FG.json
 
 With the help of Botpress, creating a bot and deploying is a task of just some hours....
 
